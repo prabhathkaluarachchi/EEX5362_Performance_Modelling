@@ -5,7 +5,7 @@
 **Faculty of Engineering Technology**  
 
 **Course:** EEX5362 – Performance Modelling  
-**Mini Project – Deliverable 01**  
+**Mini Project**  
 **System:** University Course Registration Process  
 
 **Student Name:** K.G.P.T. Kaluarachchi  
